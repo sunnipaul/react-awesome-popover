@@ -113,7 +113,7 @@ export default class Content extends React.Component {
 				transform: "rotate(45deg)",
 			},
 			right: {
-				transform: "rotate(45deg)",
+				transform: "rotate(225deg)",
 			},
 		};
 
